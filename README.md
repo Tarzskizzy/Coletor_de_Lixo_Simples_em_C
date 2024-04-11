@@ -16,4 +16,4 @@ Uma das funções mais incríveis presentes na linguagem C se encontra na biblio
 - Como bônus procurei algumas soluções na internet para integrar o `free()`, na biblioteca, pois chegará um momento que o programa ainda não encerrou, mas que precisaríamos liberar uma certa variável inútil, assim com ajuda da net, contruí o `gc_free()`, que, antes de liberar a variável em si, irá procurá-la na lista-encadeada, e consequentemente liberar o nó responsável por armazenar o endereço da variável que será posteriormente liberada
 
 # Observações
-- devido ao sua estrutura exageradamente simples, recomendo que não utilize de forma profissional, mas sim de forma educativa, a fim de entender o funcionamento das listas-encadeadas, e da alocação dinâmica na memória, para mais estudo você pode ver como [Uso da Biblioteca](Uso.md)
+- devido ao sua estrutura exageradamente simples, recomendo que não utilize de forma profissional, mas sim de forma educativa, a fim de entender o funcionamento das listas-encadeadas, e da alocação dinâmica na memória, para mais estudo você pode ver como [Uso da Biblioteca](files/Uso.md)
