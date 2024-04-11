@@ -17,3 +17,8 @@ Uma das funções mais incríveis presentes na linguagem C se encontra na biblio
 
 # Observações
 - devido ao sua estrutura exageradamente simples, recomendo que não utilize de forma profissional, mas sim de forma educativa, a fim de entender o funcionamento das listas-encadeadas, e da alocação dinâmica na memória, para mais estudo você pode ver como [Uso da Biblioteca](files/Uso.md)
+
+# Esquema
+- para quem quiser uma representação mais visual do meu GC está ai.
+
+![](files/Simple_GC.drawio.svg)
