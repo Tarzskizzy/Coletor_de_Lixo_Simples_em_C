@@ -8,5 +8,5 @@ int main(){
     str = gc_malloc(1);
   }
   gc_free(&(str[8]));
-  gc_free_all(_HEAD);
+  gc_free_all();
 }

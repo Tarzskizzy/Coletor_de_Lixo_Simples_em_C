@@ -42,7 +42,7 @@ void gc_free(void* mem)
 
 }
 
-void gc_free_all(mem_t *_head){
+void gc_free_all(){
 
   while (_HEAD != NULL)
   {

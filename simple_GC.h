@@ -11,6 +11,6 @@ static mem_t* _HEAD;
 //inicializando a cabeça
 void *gc_malloc(size_t size);
 void gc_free(void* ptr);
-void gc_free_all(mem_t *_head);
+void gc_free_all();
 
 #endif
