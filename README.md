@@ -1,4 +1,4 @@
-# Conclusão de Curso - Fundação Estudar (Havard)
+# Coletor de Lixo simples em C (Garbage Collector)
 - Aqui eu apresento um pequeno projetinho que fiz como projeto de conclusão de curso de havard feita pela instituição Fundação Estudar
 - meu Tema foi focado na linguagem C, devido a menos conhecimento sobre frameworks e melhor aprimoramento nos conhecimentos de algoritmos
   - Thema -> Simples Garbage Colletor escrito em C
